@@ -30,15 +30,14 @@ Minecraft 거래소 데이터 수집 & API 시스템 설계
 데이터 구조
 
 {
-  "item": "string",
-  "price": number,
-  "seller": "string",
-  "timestamp": number
+ "항목": "끈",
+ "가격": 숫자,
+ "판매자": "끈",
+"timestamp": 숫자
 }
-
----
-
-3. 서버 설계 (Node.js)
+ // 헤이즈를 변기에넣 내려
+ 
+3. 서버 설계(Node.js)
 
 구성
 
